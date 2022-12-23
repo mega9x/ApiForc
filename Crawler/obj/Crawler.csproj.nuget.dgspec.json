@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\Crawler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\Crawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\Crawler.csproj",
+        "projectName": "Crawler",
+        "projectPath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\Crawler.csproj",
+        "packagesPath": "C:\\Users\\YK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj": {
+                "projectPath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebView.WindowsForms": {
+              "target": "Package",
+              "version": "[6.0.547, )"
+            },
+            "OpenQA.Selenium.Chrome.ChromeDriverExtensions": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "RandomUserAgent": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[108.0.5359.7100, )"
+            },
+            "Selenium.WebDriver.UndetectedChromeDriver": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj",
+        "projectName": "ModelsLib",
+        "projectPath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj",
+        "packagesPath": "C:\\Users\\YK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "action": "next",
+  "messages": [
+    {
+      "id": "3e3f098d-b14d-4ec8-88ef-2a425b1f51aa",
+      "role": "user",
+      "content": { "content_type": "text", "parts": ["CPA 和 CPL 有什么区别"] }
+    }
+  ],
+  "conversation_id": "95e6e557-efe7-4cce-8152-c9f91a3478ae",
+  "parent_message_id": "f77e52cf-eb35-480b-901b-7845fbe47970",
+  "model": "text-davinci-002-render"
+}

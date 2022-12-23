@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlv9wFmjIwYiahy6gnPdcr7F47ZSL6gstWRTl53OvlGLQNAAxgORW9S8nUCUSTH2vuhLw/J9YUe7CcYLw4GR7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\ModelsLib\\ModelsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

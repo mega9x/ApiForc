@@ -1,0 +1,238 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Crawler/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebView.WindowsForms": "6.0.547",
+          "ModelsLib": "1.0.0",
+          "OpenQA.Selenium.Chrome.ChromeDriverExtensions": "1.2.0",
+          "RandomUserAgent": "1.1.2",
+          "Selenium.Support": "4.7.0",
+          "Selenium.WebDriver": "4.7.0",
+          "Selenium.WebDriver.ChromeDriver": "108.0.5359.7100",
+          "Selenium.WebDriver.UndetectedChromeDriver": "2.3.0"
+        },
+        "runtime": {
+          "Crawler.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebView.WindowsForms/6.0.547": {},
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.322.12309"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "OpenQA.Selenium.Chrome.ChromeDriverExtensions/1.2.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "RandomUserAgent/1.1.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/RandomUserAgent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Selenium.Support/4.7.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.7.0"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.7.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/108.0.5359.7100": {},
+      "Selenium.WebDriver.UndetectedChromeDriver/2.3.0": {
+        "dependencies": {
+          "Sl.Selenium.Extensions.Chrome": "2.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Selenium.WebDriver.UndetectedChromeDriver.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "Sl.Selenium.Extensions/2.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Selenium.Support": "4.7.0",
+          "Selenium.WebDriver": "4.7.0",
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Selenium.Extensions.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "Sl.Selenium.Extensions.Chrome/2.3.0": {
+        "dependencies": {
+          "Sl.Selenium.Extensions": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sl.Selenium.Extensions.Chrome.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        }
+      },
+      "ModelsLib/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "ModelsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Components.WebView.WindowsForms/6.0.547": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gCQFgHUH57cZ/G2kV3dJv+jwQCXIqtrO2mxCGCVB5quVlfgctM82g2GaGkrTGZp4wG4VhYDUnQ0FLKx9NorO1A==",
+      "path": "microsoft.aspnetcore.components.webview.windowsforms/6.0.547",
+      "hashPath": "microsoft.aspnetcore.components.webview.windowsforms.6.0.547.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "OpenQA.Selenium.Chrome.ChromeDriverExtensions/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z5/MAdjFlHcECXN4sxS356Hul5iJD1vHznAwINo9YR3j+PXVU2PjgmkLEB6zvRLxzouL8qfNBioSWkxfvlsbMg==",
+      "path": "openqa.selenium.chrome.chromedriverextensions/1.2.0",
+      "hashPath": "openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512"
+    },
+    "RandomUserAgent/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jj0nKiIZaApcvj6tUv5RJn0rAznpz19ncN1SP0mqZhWf+m2DEcfqTTCT2ZKOXJ7HXNprlH7X18gTkhFFu16S+Q==",
+      "path": "randomuseragent/1.1.2",
+      "hashPath": "randomuseragent.1.1.2.nupkg.sha512"
+    },
+    "Selenium.Support/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fy5AIybjkJhVwe2VY2JSYBQeEV0E+HfG11wmkrC1+ICBBWBkt4Ax/oKH+oQ3kTgFCjDY2wAM4LCvMLDxRXi+ig==",
+      "path": "selenium.support/4.7.0",
+      "hashPath": "selenium.support.4.7.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WNGX6JxjBS5f79PQnrB4oO+5U83f8tZfND+rqX2YJVHPdv3xS/zZwljWqGu5UDhluo3kEuuT+DuGEZW8/+9fOA==",
+      "path": "selenium.webdriver/4.7.0",
+      "hashPath": "selenium.webdriver.4.7.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/108.0.5359.7100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wrDUVsoQHQct9BodCFgRi1LMKGhwv27ANuS8l7ZXcOn/VS2NqcxxBhSAkcucx4CoZgidny0+ifnFS95nTmnVvg==",
+      "path": "selenium.webdriver.chromedriver/108.0.5359.7100",
+      "hashPath": "selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+    },
+    "Selenium.WebDriver.UndetectedChromeDriver/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9v+J8OoG/AMP/Rjg3RjbYGpN/n4E6WJ87N5x5gLu09GAeTzRJ4g+0NJmpjqnFmZfB1wIj2D15R+4hDqcGKq2WA==",
+      "path": "selenium.webdriver.undetectedchromedriver/2.3.0",
+      "hashPath": "selenium.webdriver.undetectedchromedriver.2.3.0.nupkg.sha512"
+    },
+    "Sl.Selenium.Extensions/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aT+GynibH4d12A/7WTn9bspaXw0BGAs8q4ANPxxGSeAJhHL8UfW2qqs/YHx/6hGh/DKM/t9zfdz5HpLXpzCVcg==",
+      "path": "sl.selenium.extensions/2.1.1",
+      "hashPath": "sl.selenium.extensions.2.1.1.nupkg.sha512"
+    },
+    "Sl.Selenium.Extensions.Chrome/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7fcvYmaWEs5ZDqz9jMXv/jl7GoyQKhtr9r+3l4r83L7R6YO6ef+nUGSlzhX4vGN77vaseStx2RrJx+GmyQznrg==",
+      "path": "sl.selenium.extensions.chrome/2.3.0",
+      "hashPath": "sl.selenium.extensions.chrome.2.3.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    },
+    "ModelsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

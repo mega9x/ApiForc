@@ -1,0 +1,12 @@
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\bin\Debug\net6.0\ModelsLib.deps.json
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\bin\Debug\net6.0\ModelsLib.dll
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\bin\Debug\net6.0\ModelsLib.pdb
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.csproj.AssemblyReference.cache
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.AssemblyInfoInputs.cache
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.AssemblyInfo.cs
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.csproj.CoreCompileInputs.cache
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.dll
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\refint\ModelsLib.dll
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ModelsLib.pdb
+C:\Users\YK\Desktop\workspace\projects\project\ChatApi\ModelsLib\obj\Debug\net6.0\ref\ModelsLib.dll

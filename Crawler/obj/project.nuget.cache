@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "gj5bszHstGy1asDw18uE3vdHVsWlCTPkdjx2fZ/0Ge+/QhuuhNUv6AYWIoXNMaPU4i2aFT/laTwxHrVnLem8aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YK\\Desktop\\workspace\\projects\\project\\ChatApi\\Crawler\\Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YK\\.nuget\\packages\\microsoft.aspnetcore.components.webview.windowsforms\\6.0.547\\microsoft.aspnetcore.components.webview.windowsforms.6.0.547.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\randomuseragent\\1.1.2\\randomuseragent.1.1.2.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\selenium.webdriver.undetectedchromedriver\\2.3.0\\selenium.webdriver.undetectedchromedriver.2.3.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\sl.selenium.extensions\\2.1.1\\sl.selenium.extensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\sl.selenium.extensions.chrome\\2.3.0\\sl.selenium.extensions.chrome.2.3.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\YK\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
